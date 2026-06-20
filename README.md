@@ -1,2 +1,14 @@
 # maiqiugame-archive
-HTML page archive and documentation
+
+静态文件发布目录
+
+本仓库用于保存页面发布产物，内容以实际文件为准。
+
+## 输出文件
+
+- 发布产物会保存为 HTML
+- 说明文本会保存在 README
+
+## 提交说明
+
+页面文件由程序提交，提交历史可作为变更记录参考。
